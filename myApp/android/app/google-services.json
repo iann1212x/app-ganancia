@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706610100373",
+    "project_id": "appgan-8abdb",
+    "storage_bucket": "appgan-8abdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706610100373:android:5cd69383c9294a0f6f439c",
+        "android_client_info": {
+          "package_name": "com.eme.ganan2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdXbxezg8K-11eeLrV0LZXfjsaIQsnIOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
